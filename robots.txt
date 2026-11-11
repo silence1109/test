@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://netfakesi.pages.dev/sitemap.xml
